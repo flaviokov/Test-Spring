@@ -1,0 +1,13 @@
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\service\LivroService.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\resources\LivroResource.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\config\SwaggerConfig.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\domain\base\EntityBase.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\domain\Comentario.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\BooksapiApplication.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\repository\LivroRepository.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\domain\DetalheLivroError.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\service\exception\LivroNaoEncontradoException.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\repository\ComentarioRepository.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\config\WebSecurityConfig.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\domain\Livro.java
+C:\Users\flavi\Desktop\GFT\bookapi\src\main\java\br\com\booksapi\handler\ResourceExceptionHandler.java
