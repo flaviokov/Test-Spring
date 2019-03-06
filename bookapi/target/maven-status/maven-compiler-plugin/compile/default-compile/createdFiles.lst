@@ -1,13 +1,6 @@
-br\com\booksapi\resources\LivroResource.class
-br\com\booksapi\config\SwaggerConfig.class
-br\com\booksapi\config\WebSecurityConfig.class
+br\com\booksapi\domain\DetalheLivroError.class
+br\com\booksapi\domain\Livro.class
 br\com\booksapi\BooksapiApplication.class
-br\com\booksapi\repository\ComentarioRepository.class
+br\com\booksapi\domain\Comentario.class
 br\com\booksapi\repository\LivroRepository.class
 br\com\booksapi\domain\base\EntityBase.class
-br\com\booksapi\service\LivroService.class
-br\com\booksapi\domain\DetalheLivroError.class
-br\com\booksapi\service\exception\LivroNaoEncontradoException.class
-br\com\booksapi\domain\Livro.class
-br\com\booksapi\domain\Comentario.class
-br\com\booksapi\handler\ResourceExceptionHandler.class
